@@ -20,18 +20,6 @@ This project works completely offline (locally) and can also be hosted online ea
 
 ---
 
-## 🖼 Preview
-
-> Add screenshots or screen recordings here for better GitHub presentation.
-
-Example:
-```
-/preview/demo.gif
-/preview/home.png
-```
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -43,6 +31,7 @@ Valentine-Proposal-Website/
 ├── js/
 │   └── script.js
 └── README.md
+ |___favicon
 ```
 
 ---
